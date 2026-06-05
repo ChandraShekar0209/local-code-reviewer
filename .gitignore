@@ -5,3 +5,5 @@ __pycache__/
 .DS_Store
 *.egg-info/
 chroma_db/
+api.log
+agent.log
